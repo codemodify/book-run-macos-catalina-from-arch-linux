@@ -1,1 +1,0 @@
-# book-run-macos-catalina-from-arch-linux
